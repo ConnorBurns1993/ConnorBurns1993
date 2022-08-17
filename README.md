@@ -1,7 +1,14 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F70000&lines=Hey+there,+I'm+Connor.)
+<p align='center'><img src=https://readme-typing-svg.herokuapp.com/?color=F70000&lines=Hey+there,+I'm+Connor. /></p>
 
- 👋  ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=ConnorBurns1993.visitor-badge&left_color=red&right_color=red&left_text=Hello%20Visitors)
+ <p align='center'> 👋  <img src=https://visitor-badge.glitch.me/badge?page_id=ConnorBurns1993.visitor-badge&left_color=red&right_color=red&left_text=Hello%20Visitors /> </p>
+ 
 ### I'm Connor Burns, a software developer based in San Francisco. Want to get to know me more? Here's a little bit about me... 💬
+_______________________________________________________________________________________________________________________________________________________________________
+
+
+<p align='left' top='100px'> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBurns1993&langs_count=5 /> </p>
+
+_______________________________________________________________________________________________________________________________________________________________________
 
 # I currently code in these languages:
  
@@ -16,24 +23,29 @@
  ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
  ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
  
+ _______________________________________________________________________________________________________________________________________________________________________
+ 
  # I used these for databases:
  
  ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
  
+ _______________________________________________________________________________________________________________________________________________________________________
+ 
  # And the best AI Bot for your home is (don't @ me):
  
+ 
  ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
+ 
+ _______________________________________________________________________________________________________________________________________________________________________
  
 # Feel free to reach me at:
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 ![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
-#
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBurns1993&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+_______________________________________________________________________________________________________________________________________________________________________
 
 
 <!--
