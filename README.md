@@ -1,16 +1,16 @@
-<p align='center'><img src=https://readme-typing-svg.herokuapp.com/?color=F70000&lines=Hey+there,+I'm+Connor. /></p>
+<p align='center'><img src=https://readme-typing-svg.herokuapp.com/?color=F70000&lines=Hey+there,+I'm+Connor.+Welcome! /></p>
 
- <p align='center'> 👋  <img src=https://visitor-badge.glitch.me/badge?page_id=ConnorBurns1993.visitor-badge&left_color=red&right_color=red&left_text=Hello%20Visitors /> </p>
+ <p align='center'> 👋 <img src=https://visitor-badge.glitch.me/badge?page_id=ConnorBurns1993.visitor-badge&left_color=red&right_color=red&left_text=Hello%20Visitors /> 👋</p>
  
-### I'm Connor Burns, a software developer based in San Francisco. Want to get to know me more? Here's a little bit about me... 💬
+### <p align='center'>I'm Connor Burns, a software developer based in San Francisco. Here's a little bit about me... 💬</p>
 _______________________________________________________________________________________________________________________________________________________________________
 
 
-<p align='left' top='100px'> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBurns1993&langs_count=5 /> </p>
+<p align='center'> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBurns1993&langs_count=5 /> </p>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
-# I currently code in these languages:
+# <p align='center'>I currently code in these languages:</p>
  
  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
  ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -25,25 +25,28 @@ ________________________________________________________________________________
  
  _______________________________________________________________________________________________________________________________________________________________________
  
- # I used these for databases:
+ # <p align='center'>I used these for databases:</p>
  
- ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
- ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
- 
+ <p align='center'>
+ <img src=https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white />
+ <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />
+ </p>
  _______________________________________________________________________________________________________________________________________________________________________
  
- # And the best AI Bot for your home is (don't @ me):
+ # <p align='center'>And the best AI Bot for your home is (don't @ me):</p>
  
- 
- ![Amazon Alexa](https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white)
- 
+ <p align='center'>
+<img src=https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white />
+ </p>
  _______________________________________________________________________________________________________________________________________________________________________
  
-# Feel free to reach me at:
+# <p align='center'>Feel free to reach me at:</p>
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+<p align='center'>
+<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
+<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white />
+<img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white />
+</p>
 
 _______________________________________________________________________________________________________________________________________________________________________
 
