@@ -30,14 +30,8 @@ ________________________________________________________________________________
  <p align='center'>
  <img src=https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white />
  <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />
- </p>
- _______________________________________________________________________________________________________________________________________________________________________
- 
- # <p align='center'>And the best AI Bot for your home is (don't @ me):</p>
- 
- <p align='center'>
-<img src=https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white />
- </p>
+ </p> 
+
  _______________________________________________________________________________________________________________________________________________________________________
  
 # <p align='center'>Feel free to reach me at:</p>
