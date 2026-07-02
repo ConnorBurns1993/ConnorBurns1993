@@ -18,8 +18,6 @@ Wander — Location-based discovery app that surfaces nearby places worth checki
 
 Stroll — A local-first walking journal with milestone tracking and iCloud backup.
 
-(Swap the # links above for your App Store URLs when you send them over.)
-
 
 🔭 What I'm up to
 
