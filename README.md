@@ -1,61 +1,35 @@
-<p align='center'><img src=https://readme-typing-svg.herokuapp.com/?color=F70000&lines=Hey+there,+I'm+Connor.+Welcome! /></p>
 
- <p align='center'> 👋 <img src=https://visitor-badge.glitch.me/badge?page_id=ConnorBurns1993.visitor-badge&left_color=red&right_color=red&left_text=Hello%20Visitors /> 👋</p>
- 
-### <p align='center'>I'm Connor Burns, a software developer based in San Francisco. Here's a little bit about me... 💬</p>
-_______________________________________________________________________________________________________________________________________________________________________
+Hi, I'm Connor 👋
 
+Indie iOS developer · Full-stack engineer
+Dallas–Fort Worth, TX
 
-<p align='center'> <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=ConnorBurns1993&langs_count=5 /> </p>
+I build and ship mobile apps end-to-end — product, engineering, monetization, and growth — and I'm currently looking for full-stack engineering roles (contract / contract-to-hire) while I grow my own app portfolio.
 
-_______________________________________________________________________________________________________________________________________________________________________
+</div>
 
-# <p align='center'>I currently code in these languages:</p>
- 
- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
- ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
- ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
- ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
- ![Elixir](https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)
- ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
- ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
- ![Pug](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)
- ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
- 
- _______________________________________________________________________________________________________________________________________________________________________
- 
- # <p align='center'>I used these for databases:</p>
- 
- <p align='center'>
- <img src=https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white />
- <img src=https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white />
- </p> 
+📱 Apps I've built
 
- _______________________________________________________________________________________________________________________________________________________________________
- 
-# <p align='center'>Feel free to reach me at:</p>
+TileIQ — A move-analysis companion for Scrabble GO, Words With Friends, and NYT Crossplay. Board-aware suggestions with plain-language reasoning, not just anagram solving.
 
-<p align='center'>
-<img src=https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white />
-<img src=https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white />
-<a href='https://www.linkedin.com/in/connor-david-burns/'><img src=https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white /></a>
-</p>
+Squishy Dumplings: Bao Pop — A kawaii gacha collection game currently in development.
 
-_______________________________________________________________________________________________________________________________________________________________________
+Wander — Location-based discovery app that surfaces nearby places worth checking out.
+
+Stroll — A local-first walking journal with milestone tracking and iCloud backup.
+
+(Swap the # links above for your App Store URLs when you send them over.)
 
 
-<!--
-**ConnorBurns1993/ConnorBurns1993** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 What I'm up to
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Growing TileIQ's monetization and ASO, and shipping Squishy Dumplings: Bao Pop
+Open to full-stack / mobile engineering roles — contract or contract-to-hire, DFW or remote
+Always happy to talk shop about indie app economics, ASO, or React Native
+
+
+
+<div align="center">
+<sub>Thanks for stopping by! Let's connect on <a href="https://www.linkedin.com/in/connor-david-burns/">LinkedIn</a>.</sub>
+</div>
